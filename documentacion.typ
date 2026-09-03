@@ -15,7 +15,7 @@
 El presente proyecto tiene como propósito desarrollar una aplicación web inspirada en Obsidian, permitiendo a los usuarios crear, organizar y enlazar notas en formato Markdown. Se busca replicar la experiencia del grafo de conocimiento y los enlaces bidireccionales en un entorno accesible desde cualquier navegador.
 
 = Roles e integrantes
-- *Adam Ordoñes:* [Definir rol]
+- *Adam Ordoñes:* [Definir rol] aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - *Martin Sanmiguel:* [Definir rol]
 - *Nicolas Torres:* [Definir rol]
 - *Ana Murcia:* [Definir rol]
